@@ -1,5 +1,6 @@
 .container {
-    background: rgba(54, 88, 117, 1.0) !important;
+    background: rgba(19, 47, 71, 1.0) !important;
+    max-width: none !important;
 }
 
 .strong-losses { 
