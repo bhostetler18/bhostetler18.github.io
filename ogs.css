@@ -43,5 +43,14 @@
 
 .library-won-result-vs-weaker {
     background: rgba(33, 219, 151, 1.0) !important;
+    color: #1a1a1a !important;
+}
+
+.library-lost-result-unranked {
+    color: rgba(47, 157, 196, 1.0) !important;
+}
+
+.library-won-result-unranked {
+    color: rgba(3, 161, 19, 1.0) !important;
 }
 
