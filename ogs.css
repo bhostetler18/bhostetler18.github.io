@@ -30,18 +30,18 @@
 }
 
 .library-lost-result-vs-stronger {
-    color: rgba(47, 157, 196, 1.0) !important;
+    background: rgba(47, 157, 196, 1.0) !important;
 }
 
 .library-lost-result-vs-weaker {
-    color: rgba(43, 79, 130, 1.0) !important;
+    background: rgba(43, 79, 130, 1.0) !important;
 }
 
 .library-won-result-vs-stronger {
-    color: rgba(3, 161, 19, 1.0) !important;
+    background: rgba(3, 161, 19, 1.0) !important;
 }
 
 .library-won-result-vs-weaker {
-    color: rgba(33, 219, 151, 1.0) !important;
+    background: rgba(33, 219, 151, 1.0) !important;
 }
 
