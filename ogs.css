@@ -1,16 +1,20 @@
+.container {
+    background: rgba(54, 88, 117, 1.0) !important;
+}
+
 .strong-losses { 
-  fill:rgba(47, 157, 196, 1.0) !important;
+  fill: rgba(47, 157, 196, 1.0) !important;
 }
 
 .weak-losses {
-   fill:rgba(43, 79, 130, 1.0) !important;
+   fill: rgba(43, 79, 130, 1.0) !important;
 }
 
 .strong-wins {
-   fill:rgba(3, 161, 19, 1.0) !important;
+   fill: rgba(3, 161, 19, 1.0) !important;
 }
 
 .weak-wins {
-   fill:rgba(33, 219, 151, 1.0) !important;
+   fill: rgba(33, 219, 151, 1.0) !important;
 }
 
