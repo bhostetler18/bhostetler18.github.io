@@ -1,5 +1,10 @@
-.container {
+body.dark .container {
     background: rgba(24, 35, 46, 1.0) !important;
+    max-width: none !important;
+}
+
+body.light .container {
+    background: rgba(206, 228, 242, 1.0) !important;
     max-width: none !important;
 }
 
