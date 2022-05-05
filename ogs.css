@@ -8,6 +8,15 @@ body.light .container {
     max-width: none !important;
 }
 
+/* .area {
+    fill: rgba(126, 77, 210, 0.5) !important;
+    stroke: rgba(200, 200, 200, 1.0) !important;
+} */
+
+/* .rating.line {
+    stroke: rgba(255, 215, 59, 1.0) !important;
+} */
+
 .avatar-container .Player-username {
     font-size: 2em;
     font-family: "Palatino", serif;
@@ -58,4 +67,21 @@ body.light .container {
 .library-won-result-unranked {
     color: rgba(3, 161, 19, 1.0) !important;
 }
+
+.win-loss-legend-block .strong-losses { 
+    fill: rgba(47, 157, 196, 1.0) !important;
+}
+
+.win-loss-legend-block .weak-losses {
+    fill: rgba(43, 79, 130, 1.0) !important;
+}
+
+.win-loss-legend-block .strong-wins {
+    fill: rgba(3, 161, 19, 1.0) !important;
+}
+
+.win-loss-legend-block .weak-wins {
+    fill: rgba(33, 219, 151, 1.0) !important;
+}
+
 
