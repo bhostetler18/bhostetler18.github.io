@@ -29,18 +29,22 @@ body.light .container {
 
 .strong-losses { 
     fill: rgba(47, 157, 196, 1.0) !important;
+    background-color: rgba(47, 157, 196, 1.0) !important;
 }
 
 .weak-losses {
     fill: rgba(43, 79, 130, 1.0) !important;
+    background-color: rgba(43, 79, 130, 1.0) !important;
 }
 
 .strong-wins {
     fill: rgba(3, 161, 19, 1.0) !important;
+    background-color: rgba(3, 161, 19, 1.0) !important;
 }
 
 .weak-wins {
     fill: rgba(33, 219, 151, 1.0) !important;
+    background-color: rgba(33, 219, 151, 1.0) !important;
 }
 
 .library-lost-result-vs-stronger {
@@ -68,20 +72,5 @@ body.light .container {
     color: rgba(3, 161, 19, 1.0) !important;
 }
 
-.win-loss-legend-block .strong-losses { 
-    fill: rgba(47, 157, 196, 1.0) !important;
-}
-
-.win-loss-legend-block .weak-losses {
-    fill: rgba(43, 79, 130, 1.0) !important;
-}
-
-.win-loss-legend-block .strong-wins {
-    fill: rgba(3, 161, 19, 1.0) !important;
-}
-
-.win-loss-legend-block .weak-wins {
-    fill: rgba(33, 219, 151, 1.0) !important;
-}
 
 
